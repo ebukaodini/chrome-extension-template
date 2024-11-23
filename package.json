@@ -1,6 +1,6 @@
 {
   "name": "typescript-chrome-extension-starter",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Get started writing a Chrome extension in TypeScript",
   "scripts": {
     "build": "rollup -c",
